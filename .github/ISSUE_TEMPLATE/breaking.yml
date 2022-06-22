@@ -3,7 +3,7 @@
   title: "[Date - MMM. DD/YY]"
   labels: ["Suggestion"]
   assignees:
-- 
+    - 
   body:
     - type: markdown
       id: details
