@@ -15,8 +15,7 @@
       id: Topic
       attributes:
         label: This Suggestion Pertains to
-        description: Please indicate the product this suggestion is
-        related to (Billing, Payments, Installments)
+        description: Please indicate the product this suggestion is related to (Billing, Payments, Installments)
         options:
           - Billing
           - Payments
