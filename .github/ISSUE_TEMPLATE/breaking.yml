@@ -1,6 +1,6 @@
-- name: Billing & Payments Suggestion Box Template
-  description: Suggestions to Money Support Operations regarding Billing & Payments
-  title: [Date - MMM. DD/YY]
+- name: "Billing & Payments Suggestion Box Template"
+  description: "Suggestions to Money Support Operations regarding Billing & Payments"
+  title: "[Date - MMM. DD/YY]"
   labels: ["Suggestion"]
   assignees:
 - 
@@ -21,3 +21,6 @@
           - Payments
           - Installments
           - Other
+        value:
+      validations:
+        required: true
